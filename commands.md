@@ -199,10 +199,16 @@ You hate vim now what?
 * pico
 * nano
 
-I want to replace words across several files with sed
+### How to use tar
+```
+tar mode[options] pathname		
+tar modes
+c		Create an archive from a list of files and/or directories
+x 		Extract an archive
+r		Append specified pathnames to the end of an archive
+t  		List the contents of an archive
+```
+tar xvzf extract.tar.gz
+tar cvzf backup.tar.gz ./mydir
 
-OK. I got this far what are regular expressions?
 
-Count words in files with wc.
-
-Who am I with whoami.
