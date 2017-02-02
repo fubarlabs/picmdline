@@ -1,18 +1,18 @@
 # pi command line
 
-##Launch and Navigate the Command Line
+## Launch and Navigate the Command Line
 
-##Basic Tasks
+## Basic Tasks
 
-##Secure your PI
+## Secure your PI
 
-##Installing software
+## Installing software
 * apt packages
 * makefiles
 * pip python install software
 * Clone software from Github
 
-##Get class files and run Jupyter Notebook
+## Get class files and run Jupyter Notebook
 * Install bash notebook
 ``` 
 pip3 install bash_kernel ; python -m bash_kernel.install
@@ -20,11 +20,13 @@ pip3 install bash_kernel ; python -m bash_kernel.install
 
 * keyboard short cuts
 
-##Command line tasks
+## Command line tasks
 
-##Command line reference
+## Command line reference
 
-##References
+## References
+* bash cheatsheet
+https://gist.github.com/LeCoupa/122b12050f5fb267e75f
 
 * Markdown Cheat Sheet
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
