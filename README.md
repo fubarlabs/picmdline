@@ -13,6 +13,12 @@
 * Clone software from Github
 
 ##Get class files and run Jupyter Notebook
+* Install bash notebook
+``` 
+pip3 install bash_kernel ; python -m bash_kernel.install
+```
+
+* keyboard short cuts
 
 ##Command line tasks
 
@@ -20,5 +26,10 @@
 
 ##References
 
-(http://jeroenjanssens.com/2015/02/19/ibash-notebook.html)Bash Notebook
-(https://macintoshguy.wordpress.com/2016/04/09/bash-notebooks-in-jupyter/) more bash notebook
+* Markdown Cheat Sheet
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+* Jupyter Bash  Notebook
+(http://jeroenjanssens.com/2015/02/19/ibash-notebook.html)[Bash Notebook]
+(https://macintoshguy.wordpress.com/2016/04/09/bash-notebooks-in-jupyter/)[ more bash notebook]
+
